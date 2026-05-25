@@ -21,3 +21,10 @@ A Power BI dashboard analysing coffee shop sales performance, revenue trends, pr
 ## Dashboard Preview
 
 ![Overview Dashboard](Overview%20Dashboard.png)
+
+## Key Insights
+
+- Coffee generated the highest revenue among all product categories.
+- Hell’s Kitchen recorded the strongest overall store performance.
+- Transaction activity peaked during morning business hours.
+- Revenue showed a steady upward trend over time.
